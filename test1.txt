@@ -1,2 +1,5 @@
 About Android history
-Android began in 2003 as a project of the American technology company Android Inc., to develop an operating system for digital cameras. In 2004 the project changed to become an operating system for smartphones. Android Inc., was bought by the American search engine company Google Inc., in 2005.
+Android began in 2003 as a project of the American technology company Android Inc.,
+ to develop an operating system for digital cameras.
+ In 2004 the project changed to become an operating system for smartphones.
+ Android Inc., was bought by the American search engine company Google Inc., in 2005.
