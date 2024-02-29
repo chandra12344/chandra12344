@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/1c/67/5c/1c675c4177e107e48c9c716408656470.gif" alt="Your Image" align="end">
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif" alt="Your Image" align="end">
 <h1 align="center">Hi 👋, I'm Chandraprakash Prajapati</h1>
 <h3 align="center">A passionate Mobile Application developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Your Image" align="end">
