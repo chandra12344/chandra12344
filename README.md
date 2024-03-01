@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Mobile Application developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Your Image" align="end">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandra12344&label=Profile%20views&color=0e75b6&style=flat" alt="chandra12344" /> </p>
+<p align="right"> <img height="200px" width="200px" src="https://komarev.com/ghpvc/?username=chandra12344&label=Profile%20views&color=0e75b6&style=flat" alt="chandra12344" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chandra37801500" target="blank"><img src="https://img.shields.io/twitter/follow/chandra37801500?logo=twitter&style=for-the-badge" alt="chandra37801500" /></a> </p>
 
