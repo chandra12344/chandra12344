@@ -1,9 +1,10 @@
 <img src="https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif" alt="Your Image" align="end">
 <h1 align="center">Hi 👋, I'm Chandraprakash Prajapati</h1>
 <h3 align="center">A passionate Mobile Application developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Your Image" align="end">
+<p align="right"><img height="500px" width="500px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Your Image" align="end"></p>
 
-<p align="right"> <img height="200px" width="200px" src="https://komarev.com/ghpvc/?username=chandra12344&label=Profile%20views&color=0e75b6&style=flat" alt="chandra12344" /> </p>
+
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=chandra12344&label=Profile%20views&color=0e75b6&style=flat" alt="chandra12344" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chandra37801500" target="blank"><img src="https://img.shields.io/twitter/follow/chandra37801500?logo=twitter&style=for-the-badge" alt="chandra37801500" /></a> </p>
 
